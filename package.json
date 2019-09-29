@@ -1,0 +1,14 @@
+{
+  "name": "spotify-dbus",
+  "version": "0.0.1",
+  "description": "Listen to spotify and spotifyd dbus messages",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dbus": "^1.0.5",
+    "dbus-native": "^0.4.0",
+    "dbus-next": "^0.7.1",
+    "electron": "^6.0.10",
+    "rxjs": "^6.5.3"
+  }
+}
