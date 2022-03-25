@@ -8,7 +8,7 @@
     "dbus": "^1.0.5",
     "dbus-native": "^0.4.0",
     "dbus-next": "^0.7.1",
-    "electron": "^6.0.10",
+    "electron": "^13.6.6",
     "rxjs": "^6.5.3"
   }
 }
